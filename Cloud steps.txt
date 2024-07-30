@@ -1,0 +1,5 @@
+Step 1: Go to cloud.google.com
+Step 2: Select "Get started for free"
+Step 3: Select country and click "agree and continue"
+Step 4: Set up payment profile
+Step 5: start free
